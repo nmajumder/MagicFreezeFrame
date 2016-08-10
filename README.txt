@@ -1,5 +1,9 @@
 Freeze Frame Program -- Nathan Majumder, Summer Wu, Fanhao Yang
 
+Finished Products:
+https://www.dropbox.com/s/l49qjk6ih22ze94/freeze-frame-together.mp4?dl=0
+https://www.dropbox.com/s/gyxxi47b76cwvpd/freeze-frame-pass.mp4?dl=0
+
 Two options for freeze frame:
 1. use -processVid option to simply freeze the image within the picture
 	frame at a certain frame number. For all subsequent frames it will
